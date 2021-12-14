@@ -1,0 +1,19 @@
+{
+  "frutas": [
+    {
+      "id": 1,
+      "nome": "banana",
+      "calorias": 89
+    },
+    {
+      "id": 2,
+      "nome": "maçã",
+      "calorias": 52
+    },
+    {
+      "id": 3,
+      "nome": "laranja",
+      "calorias": 47
+    }
+  ]
+}
